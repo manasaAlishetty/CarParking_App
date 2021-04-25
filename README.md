@@ -2,7 +2,7 @@
 Andriod App
 
 # This is a car parking App, Which is built in Kotlin
-# Login Page.
+# Login Page
   When user launches the app
 
  1. User lands on the Welcome Screen.
@@ -22,4 +22,4 @@ Andriod App
  1. In the payment Details page user has to provide the credit card information.
  2. When the credit details are validated, it gives a user to store the information about the credit card, it can be optional either user can opt it or deny it.
  3. If the user save the credit card information already, user can retreive the information of the credit card  for the next payment when they uses the app.
- 4. When user hits the Ok button. A success full payment pop-up is displayed.
+ 4. When user hits the Ok button. A successfull payment pop-up is displayed.
