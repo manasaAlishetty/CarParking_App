@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parking Cars</string>
+    <string name="start">START</string>
+    <string name="phone_hint">Please Enter ZipCode</string>
+</resources>
